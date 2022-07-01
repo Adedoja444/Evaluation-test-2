@@ -57,6 +57,7 @@ thecards.innerHTML = cardholder
 
 // Apple at the beginning 
 let fruits = ["banana", "pineapple", "mango", "orange"];
+console.log(fruits)
 fruits.unshift("apple")
 console.log(fruits)
 
