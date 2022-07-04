@@ -1,3 +1,11 @@
+/* bigger laptop*/
+@media(max-width: 1024px  ) {
+    .card {
+        width: 47%;
+    }
+}
+
+
 body {
     background-color: grey;
     color: #fff;
@@ -48,8 +56,6 @@ body {
     width: 50%;
 }
 
-
-
 /* tablet view */
 @media(max-width:768px  ) {
     .card {
@@ -63,12 +69,5 @@ body {
 @media(max-width:435px  ) {
     .card {
         width: 100%;
-    }
-}
-
-/* bigger laptop*/
-@media(max-width: 1024px  ) {
-    .card {
-        width: 47%;
     }
 }
