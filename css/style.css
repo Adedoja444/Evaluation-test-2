@@ -69,6 +69,6 @@ body {
 /* bigger laptop*/
 @media(max-width: 1024px  ) {
     .card {
-        width: 31%;
+        width: 47%;
     }
 }
